@@ -9,15 +9,5 @@
             shapes. Both annual and <xref href="../concepts/glossary.xml#perennial" format="dita"
                 >perennial</xref> flower gardens can be planted depending on climate and specific
             needs.</p>
-      <p id="p1">Paragraph 1</p>
-      <p id="p2">Paragraph 2</p>
-      <p id="p3">Paragraph 3</p>
-<!--
-        <dl>
-          <dlentry>
-            <dd>Blah</dd>
-          </dlentry>
-        </dl>
--->
     </body>
 </topic>
